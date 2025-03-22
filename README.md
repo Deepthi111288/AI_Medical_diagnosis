@@ -1,7 +1,7 @@
 # AI_Medical_diagnosis
 An AI-powered medical diagnosis system that assists healthcare professionals by analyzing patient symptoms and medical data to provide accurate and efficient disease predictions. Built using machine learning algorithms, this system enhances diagnostic precision and supports timely decision-making.
 
-📽️ Project Walkthrough
+# 📽️ Project Walkthrough
 Watch the demo video to see how the project works:
 https://www.youtube.com/watch?v=WMuI4QHgG2E
 
@@ -37,7 +37,7 @@ The project uses multiple datasets for different diseases, such as:
 🔹 Hypothyroid dataset
 🔹 Blood cancer dataset
 
-🚀 How to Run the Project (code) ???
+# 🚀 How to Run the Project (code) ???
 1️⃣ Install Dependencies
 Before running the code, install all required libraries using:
 pip install -r requirements.txt
