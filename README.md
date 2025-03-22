@@ -45,17 +45,19 @@ Before running the code, install all required libraries using:
 pip install -r requirements.txt
 
 2️⃣ Navigate to the Project Directory
-Make sure your Command Prompt (cmd) is open in the folder where the project files are located.
-If not, navigate to it using:
+
+Make sure your Command Prompt (cmd) is open in the folder where the project files are located. If not, navigate to it using:
 
 cd path\to\your\project\directory
 
 3️⃣ Train the Machine Learning Models
+
 Run the following command to train models for disease prediction:
 
 python MT_all_diseases.py
 
 4️⃣ Start the Streamlit Web Application
+
 Once the models are trained, launch the AI Medical Diagnosis web app using:
 
 streamlit run AI_medical_diagnosis.py
