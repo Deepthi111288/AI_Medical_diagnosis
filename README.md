@@ -1,6 +1,10 @@
 # AI_Medical_diagnosis
 An AI-powered medical diagnosis system that assists healthcare professionals by analyzing patient symptoms and medical data to provide accurate and efficient disease predictions. Built using machine learning algorithms, this system enhances diagnostic precision and supports timely decision-making.
 
+📽️ Project Walkthrough
+Watch the demo video to see how the project works:
+https://www.youtube.com/watch?v=WMuI4QHgG2E
+
 # Key Features:
 ✅ Multi-Disease Prediction: Supports multiple diseases, including cardiovascular disease, diabetes, liver disease, tuberculosis, Parkinson’s, and more.
 
@@ -40,7 +44,6 @@ pip install -r requirements.txt
 
 2️⃣ Navigate to the Project Directory
 Make sure your Command Prompt (cmd) is open in the folder where the project files are located.
-
 If not, navigate to it using:
 cd path\to\your\project\directory
 
@@ -53,4 +56,3 @@ Once the models are trained, launch the AI Medical Diagnosis web app using:
 streamlit run AI_medical_diagnosis.py
 
 This will open the web application in your browser. 🚀
-
