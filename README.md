@@ -33,3 +33,23 @@ The project uses multiple datasets for different diseases, such as:
 🔹 Hypothyroid dataset
 🔹 Blood cancer dataset
 
+## 🚀 How to Run the Project???
+
+Follow these steps to set up and run the **AI Medical Diagnosis System**:
+1️⃣ Clone the Repository  
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
+2️⃣ Install Dependencies
+Ensure you have Python 3.x installed, then run:
+pip install -r requirements.txt
+
+3️⃣ Navigate to the Project Directory
+Before running the app, ensure that your command prompt (CMD) or terminal is in the same directory as the Python file:
+cd path/to/your/project
+4️⃣ Run the Streamlit App
+Now, launch the application using:
+streamlit run AI_medical_diagnosis.py
+
+This will open the web-based AI diagnosis system in your browser, allowing users to input medical data and receive predictions. 🚑💡
+
